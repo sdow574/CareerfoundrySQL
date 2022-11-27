@@ -6,7 +6,7 @@ Career Foundry SQL
 ## **_Results_**
 ### Top 3 countries:  India, China, United States
 ### Top Movie types: Sports, Animation, Sci Fi
-## **__Additional Considerations:**  Continue exploring trends by:
+## **_Additional Considerations:_**  Continue exploring trends by:
 ### Age
 ### Movie type and country
 ### Comedy movie type
